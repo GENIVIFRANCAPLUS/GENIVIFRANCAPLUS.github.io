@@ -5,6 +5,7 @@
         <property name='p2.atomic.composite.loading' value='true'/>
     </properties>
     <children size='2'>
+		<child location='V0.13.0'/>
         <child location='test'/>
 		<!-- add next release folder here -->
     </children>
