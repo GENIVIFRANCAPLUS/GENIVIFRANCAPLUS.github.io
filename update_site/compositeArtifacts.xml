@@ -3,9 +3,8 @@
 <repository name='Project Franca_SDK Releases Repository' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
     <properties size='0'>
     </properties>
-    <children size='2'>
+    <children size='1'>
         <child location='V0.13.0'/>
-		<child location='test'/>
-        <!-- add next release folder here -->
+        <!-- add next release folder here and increment size -->
     </children>
 </repository>

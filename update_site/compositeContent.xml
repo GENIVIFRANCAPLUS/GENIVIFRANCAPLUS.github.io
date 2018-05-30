@@ -4,9 +4,8 @@
     <properties size='1'>
         <property name='p2.atomic.composite.loading' value='true'/>
     </properties>
-    <children size='2'>
+    <children size='1'>
 		<child location='V0.13.0'/>
-        <child location='test'/>
-		<!-- add next release folder here -->
+		<!-- add next release folder here and increment size -->
     </children>
 </repository>
